@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mile High Otters</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">log out</string>
+    <string name="reserve_flight">reserve flight</string>
+    <string name="cancel_flight">cancel flight</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+</resources>
